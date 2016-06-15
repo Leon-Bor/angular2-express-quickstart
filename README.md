@@ -9,7 +9,7 @@ then `npm start`
 
 `npm install -g nodemon`
 
-change in the package.json `node ./bin/www\` to `nodemon ./bin/www\`.Maybe you have to start the server now with `sudo npm start` because of nodemon.
+change in the package.json `node ./bin/www\` to `nodemon ./bin/www\`. Maybe you have to start the server now with `sudo npm start` because of nodemon.
 
 #### Why
 
