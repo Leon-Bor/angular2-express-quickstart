@@ -1,4 +1,4 @@
-# Angular2 ExpressJS Quickstart
+# Angular2 ExpressJS Quickstart without Lite Server
 Simple Angular2 repo with express for a quick start. No use of lite-server.
 The default configurated view engine is [Nunjucks](https://mozilla.github.io/nunjucks/).
 
